@@ -1,21 +1,24 @@
-## Hi there, I'm Dilan Quintero! 👋
 
-- 🧍🏻 ABOUT ME: 
-              I'm Dilan Quintero, I'm a 24 years old Colombian with 2 degrees in Mechatronics and Electrical Engineer from the "Universidad Tecnológica de Bolívar", currently I'm as freelancer in the industrial                    field for automation services.
-  
-- 🗃️ EXPERIENCE:
-              As needed for my collage to gratuate, I was a apprentice during 6 months in Ajover where I work in the production team, with focus in autoamtion proejcts and analytics in the production, then for my good 
+  ## Hi there, I'm Dilan Quintero 👋
 
-- 🌱 ALWAYS LEARNING:
-              I'm always learning, tecnically it's my favorite hobbie, specially the self-learning, understand by myself , specially tech stuff (Software/Hardware), that's why I choose to Study mechatronics, currently I'm studying the plataform Azure and some of its services.
+🔎 **About Me**  
+I'm Dilan Quintero, a 24-year-old Colombian engineer with degrees in Mechatronics and Electrical Engineering from Universidad Tecnológica de Bolívar. I currently working as an independent Industrial Automation Specialist. I design and implement automation solutions for industrial environments, focusing on efficiency, system optimization, and data-driven improvements.
 
-- 🎯 GOAL:
-              I'm finishing my solo project and teach
+📈 **Experience**  
+I began my professional career as an apprentice at Ajover, working in the production team with a focus on automation projects and production analytics.  
+Due to my performance, I was promoted to Process Engineer III, where I took on greater responsibilities in operational improvement, industrial data analysis and process optimization.
 
-- 💼 PORTFOLIO:
-              Please check my portfolio where I have some projects and more details about me and my work: 
-              
+🌱 **Always Learning**  
+Continuous learning is one of my core values. I enjoy deeply understanding both software and hardware systems, which is one of the reasons I chose Mechatronics.  
+Currently, I am expanding my expertise in Azure and cloud-based data engineering technologies.
 
-- 📫 CONTACT: 
-              [LinkedIn](https://www.linkedin.com/in/dylan-quintero-43832a29b/)
+🎯 **Goal**  
+I am building independent projects and strengthening my technical foundation to transition into a remote Data Engineering role, while continuing to grow in the field of industrial and cloud analytics.
+
+📂 **Portfolio**  
+You can explore my projects and technical work in my repositories and portfolio site. [Portfolio](https://dylanq94.github.io/Dylan_Portfolio/)
+
+📫 **Contact**  
+* 💼 [LinkedIn](https://www.linkedin.com/in/dylan-quintero-43832a29b/)
+* 📧 dylanquintero11@gmail.com
               
