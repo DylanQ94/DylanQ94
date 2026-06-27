@@ -2,7 +2,7 @@
   ## Hi there, I'm Dilan Quintero 👋
 
 🔎 **About Me**  
-I'm Dilan Quintero, a 24-year-old Colombian engineer with degrees in Mechatronics and Electrical Engineering from Universidad Tecnológica de Bolívar. I currently working as an independent Industrial Automation Specialist. I design and implement automation solutions for industrial environments, focusing on efficiency, system optimization, and data-driven improvements.
+I'm Dilan Quintero, a 25-year-old Colombian engineer with degrees in Mechatronics and Electrical Engineering from Universidad Tecnológica de Bolívar. I currently working as an independent Industrial Automation Specialist. I design and implement automation solutions for industrial environments, focusing on efficiency, system optimization, and data-driven improvements.
 
 📈 **Experience**  
 I began my professional career as an apprentice at Ajover, working in the production team with a focus on automation projects and production analytics.  
